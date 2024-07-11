@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HallOfFame/static/css/main.5fee30fb.css",
-    "main.js": "/HallOfFame/static/js/main.a4d219c6.js",
-    "static/js/453.9af91dda.chunk.js": "/HallOfFame/static/js/453.9af91dda.chunk.js",
-    "index.html": "/HallOfFame/index.html",
-    "main.5fee30fb.css.map": "/HallOfFame/static/css/main.5fee30fb.css.map",
-    "main.a4d219c6.js.map": "/HallOfFame/static/js/main.a4d219c6.js.map",
-    "453.9af91dda.chunk.js.map": "/HallOfFame/static/js/453.9af91dda.chunk.js.map"
+    "main.css": "/static/css/main.5fee30fb.css",
+    "main.js": "/static/js/main.d801d507.js",
+    "static/js/453.9af91dda.chunk.js": "/static/js/453.9af91dda.chunk.js",
+    "index.html": "/index.html",
+    "main.5fee30fb.css.map": "/static/css/main.5fee30fb.css.map",
+    "main.d801d507.js.map": "/static/js/main.d801d507.js.map",
+    "453.9af91dda.chunk.js.map": "/static/js/453.9af91dda.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fee30fb.css",
-    "static/js/main.a4d219c6.js"
+    "static/js/main.d801d507.js"
   ]
 }
